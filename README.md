@@ -1,5 +1,13 @@
 <h2 align="left">Hi 👋! I'm Emmanuel</h2>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5paThxbmd1MTg4dGdwdmN6dWkycmc0dzl4cml0ZjZvcTR5ZWdlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="master-image" />
+<table>
+  <tr>
+    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5paThxbmd1MTg4dGdwdmN6dWkycmc0dzl4cml0ZjZvcTR5ZWdlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="master-image"/></td>
+    <td><h1>I am a Software Engineer</h1></td>
+  </tr>
+</table>
+
+
+
 
 ###
 
@@ -48,3 +56,5 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
