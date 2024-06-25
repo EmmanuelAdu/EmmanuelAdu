@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! I'm Emmanuel</h2>
 <table>
   <tr>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5paThxbmd1MTg4dGdwdmN6dWkycmc0dzl4cml0ZjZvcTR5ZWdlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="master-image"/></td>
-    <td><h5>I am a software engineer trained at ALX Africa in collaboration with Holberton School. I specialize in applying AI to disaster management, 
+    <td width="50%"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5paThxbmd1MTg4dGdwdmN6dWkycmc0dzl4cml0ZjZvcTR5ZWdlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="master-image"/></td>
+    <td width="50%"><h5>I am a software engineer trained at ALX Africa in collaboration with Holberton School. I specialize in applying AI to disaster management, 
         advocating for responsible tech usage, and cultivating community development. Proficient in Django and MERN stack, I'm also passionate about mentoring 
         aspiring developers. Let's collaborate on impactful open-source projects!</h5>
     </td>
