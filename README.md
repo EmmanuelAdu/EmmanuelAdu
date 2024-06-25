@@ -2,13 +2,13 @@
 <table>
   <tr>
     <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5paThxbmd1MTg4dGdwdmN6dWkycmc0dzl4cml0ZjZvcTR5ZWdlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="master-image"/></td>
-    <td><h1>I am a Software Engineer</h1></td>
+    <td><h3>I am a Software Engineer</h3></td>
   </tr>
 </table>
 
 ###
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-adu) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adu_as10) 
 
